@@ -6,7 +6,6 @@ feedback = raw_input("")
 
 service = feedback.upper()
 
-print service
 
 if service == "GOOD":
 	print "Total bill is " + "${:.2f}".format(bill * 1.20)

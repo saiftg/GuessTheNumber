@@ -5,13 +5,6 @@ print secret_number
 
 print "I am thinking of a number between 1 and 10"
 
-#for turns in range(1,6):
-#print "Pick a number:"
-
-
-#numberGuessed = int(number)
-#if numberGuessed == secret_number:
-#	print "Correct!"
 keep_guessing = True
 total_turns = 5
 used_turns = 0;
