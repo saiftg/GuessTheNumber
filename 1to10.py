@@ -1,4 +1,3 @@
 n = 0
-while n < 10:
-	n = n + 1
-print n
+for n in range(1,11):
+	print n

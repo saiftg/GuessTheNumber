@@ -31,9 +31,5 @@ print teams_string
 teams_list = teams_string.split(" ,")
 print teams_list
 
-#print atlanta_teams
 
 
-
-baseball_basketball = atlanta_teams[2:3]
-print	baseball_basketball
